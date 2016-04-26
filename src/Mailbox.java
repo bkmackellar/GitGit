@@ -8,6 +8,7 @@ import java.io.PrintWriter;
 */
 public class Mailbox
 {  
+   private String id;
    private String user;
    private ArrayList<Message> messages;
 
